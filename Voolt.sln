@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voolt", "Voolt.csproj", "{83266FEB-ECC4-4C52-9154-ECE48A13ED95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VooltUI", "..\VooltUI\VooltUI.csproj", "{7AFB0DBF-0E5B-4553-A1FE-A8A008ACDDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "..\Utilities\Utilities.csproj", "{DB5DBCAA-6A4D-4E5D-AD27-96B0E90F9F58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83266FEB-ECC4-4C52-9154-ECE48A13ED95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83266FEB-ECC4-4C52-9154-ECE48A13ED95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83266FEB-ECC4-4C52-9154-ECE48A13ED95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83266FEB-ECC4-4C52-9154-ECE48A13ED95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AFB0DBF-0E5B-4553-A1FE-A8A008ACDDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFB0DBF-0E5B-4553-A1FE-A8A008ACDDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFB0DBF-0E5B-4553-A1FE-A8A008ACDDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFB0DBF-0E5B-4553-A1FE-A8A008ACDDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5DBCAA-6A4D-4E5D-AD27-96B0E90F9F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5DBCAA-6A4D-4E5D-AD27-96B0E90F9F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5DBCAA-6A4D-4E5D-AD27-96B0E90F9F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5DBCAA-6A4D-4E5D-AD27-96B0E90F9F58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAD5F6A2-B858-40FF-BA84-64DABF3B494B}
+	EndGlobalSection
+EndGlobal
